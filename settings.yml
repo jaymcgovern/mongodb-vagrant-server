@@ -1,0 +1,4 @@
+db:
+ # NETWORKING
+ guest_port: 27017
+ host_port: 27017
